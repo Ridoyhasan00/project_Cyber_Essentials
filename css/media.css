@@ -1,0 +1,234 @@
+
+@media(min-width:3200px){
+    
+}
+@media(min-width:2550px){
+    
+}
+@media(min-width:1920px){
+
+}
+@media(max-width:1025px){
+    .feature_box {
+        width: 70%;
+    }
+    #works_section {
+        padding-top: 15%;
+        margin-bottom: 4%;
+    }
+    .client_content ul li .colon {
+        padding-left: 10px;
+    }
+    .colon_p p {
+        padding-left: 20px;
+    }
+}
+@media(min-width:769px)and (max-width:992px){
+    .nav-item {
+        margin-bottom: 15px;
+    }
+    .btn_schedule {
+        margin-left: 0; 
+    }
+    .first_nav_info ul li {
+        display: flex;
+        margin-right: 15px;
+    }
+    .banner_content {
+        width: 70%;
+    }
+    .banner_content h2 {
+        font-size: 45px;
+    }
+    .feature_box {
+        width: 70%;
+    }
+    .buy_section_box {
+        margin-bottom: 20px;
+    }
+    .buy_feature_content{
+        margin: auto;
+    }
+    #works_section {
+        padding-top: 65%;
+    }
+    .works_content {
+        padding-bottom: 25px;
+    }
+    .works_photo img {
+        width: 100%;
+    }
+    .client_content ul li .colon {
+        padding-left: 10px;
+    }
+    .client_photo img {
+        width: 80px;
+    }
+    .colon_p p {
+        padding-left: 25px;
+    }
+    .business {
+        padding-top: 20px;
+    }
+    footer p {
+        text-align: center;
+    }
+    .sing_up input {
+        width: 30%;
+    }
+}
+@media(min-width:577px)and (max-width:768px){
+    .first_nav_section{
+        display: none;
+    }
+    .nav-link {
+        margin-bottom: 15px;
+    }
+    .banner_content {
+        width: 70%;
+    }
+    .feature_box {
+        width: 70%;
+    }
+    .buy_section_box {
+        margin-bottom: 20px;
+    }
+    .works_content {
+        padding-top: 105%;
+        margin-bottom: 50px;
+    }
+    .buy_feature_content{
+        margin: auto;
+    }
+    .business {
+        padding-top: 15px;
+    }
+    .works_photo img {
+        width: 100%;
+    }
+    .client_content ul li .colon {
+        padding-left: 10px;
+    }
+    .client_photo img {
+        width: 80px;
+    }
+    .colon_p p {
+        padding-left: 25px;
+    }
+    .sing_up input {
+        width: 30%;
+       
+    }
+    footer p {
+        text-align: center;
+    }
+}
+@media(max-width:576px){
+    .first_nav_section{
+        display: none;
+    }
+    .nav-link {
+        margin-bottom: 15px;
+    }
+    .banner_content {
+        width: 65%;
+        padding-top: 10%;
+    }
+    .banner_content h2 {
+        font-weight: 600;
+        font-size: 35px;
+    }
+    .buy_section_box {
+        margin-bottom: 20px;
+    }
+    .works_content {
+        margin-top: 235%;
+    }
+    .works_photo img {
+        margin-top: 50px;
+    }
+    .colon_p {
+        margin-left: 10px;
+    }
+    .business{
+            margin-top: 10%;
+    }
+    .business_section {
+        padding: 0px 0 50px;
+    }
+    .sing_up input {
+      
+        width: 170px;
+        margin-right: 10px;
+        border-radius: 2px;
+    }
+}
+@media(max-width:476px){
+    .banner_content {
+        width: 90%;
+    }
+    .buy_section_box {
+        width: 120%;
+    }
+    .works_content {
+        padding-top: 60%;
+    }
+    .business {
+        padding-top: 0%;
+    }
+    .sing_up input {
+        width: 140px;
+        margin-right: 4px;
+    }
+    footer p {
+        text-align: center;
+    }
+    .sing_up {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .sing_up input {
+        width: 150px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+}
+@media(max-width:376px){
+    .banner_content {
+        width: 96%;
+    }
+    .works_content {
+        padding-top: 150%;
+    }
+    .business {
+        padding-top: 0%;
+    }
+    .sing_up {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .sing_up input {
+        width: 150px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    footer p {
+        text-align: center;
+    }
+}
+@media(max-width:321px){
+    .banner_content h2 {
+        font-size: 33px;
+    }
+    .works_content {
+        padding-top: 225%;
+    }
+    .business {
+        padding-top: 0%;
+    }
+    .sing_up input {
+        width: 200px;
+    }
+    
+    
+}
